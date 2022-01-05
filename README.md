@@ -1,4 +1,4 @@
-# Makine-Ogrenmesi
+
 Gögüs Kaseri Sınıflandırması
 
 Göğüs kanseri görüntülerinden elde edilen sayısal veriler kullanılarak görüntüdeki kanserin 
